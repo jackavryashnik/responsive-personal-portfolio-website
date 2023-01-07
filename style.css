@@ -175,7 +175,7 @@ flex-wrap: wrap;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image:  url(./images/PC_img.png);
+    background-image:  url(PC_img.png);
     background-repeat: no-repeat;
     background-position: center;
     
